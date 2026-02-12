@@ -3,7 +3,7 @@ layout: post
 title: "Twitter動画ダウンロード - 無料で簡単保存（2026年最新）"
 description: "Twitter(X)の動画を無料でダウンロード。アプリ不要、URLを貼り付けるだけで最高画質で保存できます。"
 date: 2026-02-12
-categories: [ガイド]
+categories: [guide]
 tags: [Twitter, X, 動画ダウンロード, 動画保存]
 lang: ja
 ---

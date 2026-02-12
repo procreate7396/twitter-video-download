@@ -3,7 +3,7 @@ layout: post
 title: "인스타 릴스 다운로드 방법 - 2026년 최신 가이드"
 description: "인스타그램 릴스, 포스트 영상을 무료로 저장하는 가장 쉬운 방법. 앱 설치 없이 원본 화질로 다운로드하세요."
 date: 2026-02-12
-categories: [가이드]
+categories: [guide]
 tags: [인스타그램, 릴스, 영상 다운로드, 릴스 저장]
 ---
 

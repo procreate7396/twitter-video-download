@@ -3,7 +3,7 @@ layout: post
 title: "X(구 트위터) 동영상 저장하는 법 - 초간단 3단계"
 description: "X(구 트위터) 동영상을 저장하는 가장 빠른 방법. 앱 설치 없이, 회원가입 없이 URL만 붙여넣으면 됩니다."
 date: 2026-02-12
-categories: [가이드]
+categories: [guide]
 tags: [X, 트위터, 동영상 저장, 영상 다운로드]
 ---
 

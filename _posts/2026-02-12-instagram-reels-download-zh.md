@@ -3,7 +3,7 @@ layout: post
 title: "Instagram Reels下载 - 免费保存短视频（2026最新）"
 description: "免费下载Instagram Reels和帖子视频，原画质保存。无需安装App，粘贴链接即可。"
 date: 2026-02-12
-categories: [指南]
+categories: [guide]
 tags: [Instagram, Reels, 视频下载, 保存视频]
 lang: zh
 ---

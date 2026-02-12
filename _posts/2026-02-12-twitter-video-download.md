@@ -3,7 +3,7 @@ layout: post
 title: "트위터 영상 다운로드 방법 - 2026년 최신 가이드"
 description: "트위터(X) 동영상을 PC, 아이폰, 안드로이드에서 무료로 다운로드하는 방법을 알려드립니다. 앱 설치 없이 최고 화질로 저장하세요."
 date: 2026-02-12
-categories: [가이드]
+categories: [guide]
 tags: [트위터, X, 영상 다운로드, 동영상 저장]
 ---
 

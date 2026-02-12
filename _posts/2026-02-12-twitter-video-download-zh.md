@@ -3,7 +3,7 @@ layout: post
 title: "Twitter视频下载 - 免费高清保存（2026最新）"
 description: "免费下载Twitter(X)视频，无需安装任何软件。粘贴链接即可保存最高画质视频。"
 date: 2026-02-12
-categories: [指南]
+categories: [guide]
 tags: [Twitter, X, 视频下载, 保存视频]
 lang: zh
 ---
